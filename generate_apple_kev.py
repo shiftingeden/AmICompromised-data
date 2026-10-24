@@ -4,7 +4,7 @@ with the iOS version ranges NVD lists as vulnerable.
 
 Run from the project folder:
 
-    python3 Tools/generate_apple_kev.py
+    python3 Tools/generate_apple_kev.py [output path]
 
 The app fetches the same file from the GitHub repo at launch and falls back to
 the copy bundled in the build. Re-run and commit when CISA adds Apple entries.
@@ -14,7 +14,7 @@ import json, sys, time, urllib.request
 KEV_URL = "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
 NVD_URL = ("https://services.nvd.nist.gov/rest/json/cves/2.0?hasKev"
            "&virtualMatchString=cpe:2.3:o:apple:iphone_os&resultsPerPage=2000&startIndex={}")
-OUT = "Data/apple-kev.json"
+OUT = sys.argv[1] if len(sys.argv) > 1 else "Data/apple-kev.json"
 
 
 def get(url):
@@ -62,6 +62,13 @@ def main():
             break
         time.sleep(6)  # NVD allows 5 requests per 30 s without a key
     entries.sort(key=lambda e: e["dateAdded"], reverse=True)
+    try:
+        with open(OUT) as f:
+            if json.load(f)["entries"] == entries:
+                print("No changes", file=sys.stderr)
+                return
+    except (OSError, ValueError, KeyError):
+        pass
     out = {
         "generated": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
         "source": ["CISA KEV", "NVD"],

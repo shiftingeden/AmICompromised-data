@@ -1,6 +1,5 @@
 # Workflow for the public data repo (shiftingeden/AmICompromised-data).
-# Copy Tools/generate_apple_kev.py into that repo next to this folder.
-# Regenerates apple-kev.json daily and commits it if CISA added Apple bugs.
+# Regenerates apple-kev.json daily and commits it only if the bug list changed.
 name: Update exploited-bug catalog
 on:
   schedule:
@@ -12,8 +11,8 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - run: mkdir -p Data && python3 generate_apple_kev.py && mv Data/apple-kev.json apple-kev.json
+      - uses: actions/checkout@v5
+      - run: python3 generate_apple_kev.py apple-kev.json
       - run: |
           git config user.name "catalog-bot"
           git config user.email "catalog-bot@users.noreply.github.com"
