@@ -32,3 +32,20 @@ index doesn't list. The app only uses them when the person turns on **Extra list
 
 `generate_extra_indicators.py` rebuilds them daily (standard library only). A source
 that fails keeps its previous file.
+
+## Credits
+
+Thank you to the researchers who publish these indicators, and to the projects
+that make them reusable:
+
+- [Amnesty International Security Lab](https://github.com/AmnestyTech/investigations)
+- [The Citizen Lab](https://github.com/citizenlab/malware-indicators)
+- **AdFection:** research by [The Citizen Lab](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/)
+  and [Confiant](https://blog.confiant.com/p/adint-weaponized-ad-tech-for-zero-click-spyware-and-mass-identity-vacuuming);
+  indicator list compiled and dedicated to the public domain (CC0) by
+  **[Zero Breach Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)**
+  (see its `iocs/LICENSE.md`). Each source's attribution is kept in the list names.
+- [CISA](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) and [NIST NVD](https://nvd.nist.gov/)
+  for the exploited-bug catalog.
+
+None of these organisations or projects is affiliated with or endorses Am I Compromised?.
