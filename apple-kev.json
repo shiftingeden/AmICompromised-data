@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T12:40:48Z",
+ "generated": "2026-10-27T22:14:30Z",
  "source": [
   "CISA KEV",
   "NVD"
@@ -12,6 +12,10 @@
    "dateAdded": "2026-09-29",
    "ranges": [
     {
+     "versionEndExcluding": "18.7.11"
+    },
+    {
+     "versionStartIncluding": "26.0",
      "versionEndExcluding": "26.7.1"
     }
    ],
