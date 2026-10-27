@@ -1,0 +1,266 @@
+{
+ "id": "bundle--378afb41-79d1-5045-90e3-f386c29f83d1",
+ "objects": [
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--f523fd1f-5063-522b-ab01-45b603e5f7bc",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'akhbar-arabia.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--cc28f196-e994-555b-9821-57e617ddb64a",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'all-sales.info']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--4dd79c3e-1046-51c7-bc32-3649ab7ddd24",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'arabnews365.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--333ec4d6-a998-5124-ba60-176deeb373c6",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'arabworld.biz']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--80ee68b2-9226-5722-9b20-823c149c8aea",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'beststores4u.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--28eae0ca-7df2-5a8b-ad39-272c633044c7",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'cheapapartmentsaroundme.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--18af0ade-c61b-5463-97b1-9f5be4f7d32d",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'daily-sport.news']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--de83a420-773d-5787-b737-112fc200d04d",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'dinneraroundyou.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--38510925-96b6-5cce-a413-3b6d76ec9a8a",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'findmyplants.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--67b2e296-9b6e-52c5-81ca-7304c5b68c8e",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'housesfurniture.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--bf1f14cd-fd32-5535-8297-75c3a0abdc80",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'kingdom-deals.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--607a29ad-93a4-5b24-987a-0788de3637c4",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'kingdom-news.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--0ce3afa6-29bf-5a47-81d7-41ff91ddbd78",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'mideast-today.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--79bfe10a-64d8-5b43-ab27-3867ad8ad08f",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'muslim-world.info']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--97646828-cd26-5005-b0a3-9486e0e71477",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'news-gazette.info']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--431ffd0b-fa9c-5b03-98a0-f9b1d31749d7",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'nouvelles247.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--fe463477-2f97-5393-a7a8-04f73cf8050b",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'promosdereve.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--2ac741b7-9e6d-5574-aa8d-246f485f99cb",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'social-life.info']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--80294f42-6ccc-552c-aca1-4f49c1ccc334",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'sunday-deals.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--bb77735b-43f5-5a3b-a1f9-4cacca763946",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'wonderfulinsights.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  }
+ ],
+ "type": "bundle"
+}

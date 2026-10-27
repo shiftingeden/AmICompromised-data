@@ -1,0 +1,58 @@
+{
+ "id": "bundle--9ca44f50-53b4-5450-b38b-d417acab0ded",
+ "objects": [
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--2bdbd1db-5ebc-5ca8-bcf6-9c4475914390",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'browserupdate.download']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--d04f75cb-de70-5f27-8c5b-9b1783c70d41",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'current.browserupdate.download']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--31cf32f7-dae5-57d7-b8ca-6316b6031b58",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'files.browserupdate.download']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--03912614-f64b-545a-90f1-5d01746739ad",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'flash.browserupdate.download']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  }
+ ],
+ "type": "bundle"
+}

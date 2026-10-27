@@ -1,0 +1,344 @@
+{
+ "id": "bundle--9646edaa-ce08-5891-8b2e-ab6143b5f906",
+ "objects": [
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--33eb688d-2e7b-5925-8de2-9e6a153aa742",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'bowenpres.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--cbff9419-19d4-516d-b795-666f3906c628",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'bowenpress.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--ec10ab67-c0c7-5436-b998-0d5c46807384",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'bowenpress.org']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--63a42a03-7021-5ff5-a6d3-9c81f0757230",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'bowenpross.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--2f5b2553-a31d-5da2-a1d2-7d73e194f5b7",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'datalink.one']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--c76dd053-ea18-5ac6-a845-32ed807f2b60",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'dns.bowenpress.org']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--1cacade4-a302-5e82-93c3-e50882e142f5",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'email23.secuerserver.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--600e23a1-dd9b-5daa-a8a7-cc6400be1cc9",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'epochatimes.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--beda08f8-2047-5e45-bf77-a57cafac4968",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'get.adobe.com.bowenpress.org']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--98111998-8f71-5f88-a944-38e0e185a826",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'hk.secuerserver.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--91e7faef-935f-5c49-bac5-9fb3acca0b01",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'pop.secuerserver.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--03da7809-1bdb-57ba-a3bb-3580e5a4b9a2",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'secuerserver.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--0754e15f-0f7b-50ce-b9f6-22f82e5389b7",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'smtpout.secuerserver.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--1d3b37cb-c0e9-559d-a35a-bd21eab32bd1",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'www.bowenpress.org']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--6bb41757-345c-54bc-a185-428cb37a40b7",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'www.mail.secuerserver.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--038c1265-d836-56c9-8162-df819bb1d575",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'www.secuerserver.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--f6c92b93-fba7-53bb-b03a-599d6d1b98c9",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'www.vnews.hk']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--d3f84087-5b0f-5965-88cd-a94333758e54",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[email-addr:value = 'aisia.anminda8@mail.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--59879940-83fa-5da3-97b2-dedc2b466c5c",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[email-addr:value = 'hellomice@mail.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--b82e5511-3724-5ae9-9bbe-075337f33df7",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[url:value = 'http://43.240.14.37/asdasdasadqddd12222111.php/article.asp']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--f4a93e91-2771-5cbf-87ab-2ef3c35e8b53",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[url:value = 'http://chinadagitaltimes.net/2016/07/chinese-hackers-blamed-multiple-breaches-fdic']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--dffc20c9-3c6d-5b4a-b34d-b14d2d2b7494",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[url:value = 'http://get.adobe.com.bowenpress.org/Adobe/update/20160703/AdobeUpdate20160703.exe']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--d59a41c3-503c-53fb-a633-03dc7e366d2f",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[url:value = 'http://get.adobe.com.bowenpress.org/Adobe/update/20160812/AdobeUpdate20160812.exe']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--cc974415-cc1f-5685-a7e3-64742e06a74e",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[url:value = 'http://get.adobe.com.bowenpress.org/Adobe/update/20161201/AdobeUpdate.html']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--3082c710-f534-55bf-a86c-6753e61ffed0",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[url:value = 'http://get.adobe.com.bowenpress.org/Adobe/update/20161201/AdobeUpdate20161201.exe']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--0b5d649e-0a01-59c3-96bd-a9cc8e7e4bc5",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[url:value = 'http://get.adobe.com.bowenpress.org/Adobe/update/20170312/AdobeUpdate20170312.exe']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  }
+ ],
+ "type": "bundle"
+}

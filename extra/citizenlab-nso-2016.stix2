@@ -1,0 +1,721 @@
+{
+ "id": "bundle--d9007e7c-a0a7-5f07-a360-cc65bc853316",
+ "objects": [
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--d54020bb-8242-5bd9-9b95-555e108beb9f",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'aalaan.tv']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--5672c19e-6ffd-5ca9-851e-1b4013d780c0",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'accounts.mx']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--eed42ad8-21e1-53ac-b283-11390f3a2db8",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'adjust-local-settings.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--1405470f-ae4c-5907-816d-47286bb70734",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'alawaeltech.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--1195784b-036d-5bc0-8404-1b38ca87607e",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'alljazeera.co']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--bddc09e3-90c5-5146-bf52-42a7038394d3",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'asrararabiya.co']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--ef567a7f-9608-5397-b7e9-6eb8157478b4",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'asrararablya.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--72e61ed3-16c1-597e-a152-28893a458822",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'asrarrarabiya.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--ad43dac2-12e1-55e3-909b-cfdf54e95786",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'bahrainsms.co']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--4574a86c-903d-5256-91e1-bb23cb9cff1b",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'bbc-africa.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--5fd2d212-9ec5-5af6-b05f-8ea48d31b179",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'bulbazaur.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--dccd92f1-30bc-5464-b621-ab47228e8a93",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'checkinonlinehere.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--cec3e7e9-3bd2-5196-a2fa-9128628ced7c",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'cnn-africa.co']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--6e8c2173-a212-5501-bf7c-eae4ceb0482d",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'damanhealth.online']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--a1226e12-6730-5509-ac64-b85caf3a873c",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'emiratesfoundation.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--a15b4a15-783d-506e-887a-5e5473ef0092",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'fb-accounts.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--165439e8-bd38-5db5-9a40-da8041cba4e1",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'googleplay-store.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--6e69950b-e181-5a63-ba75-9b2a8edba8d7",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'icloudcacher.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--692668ec-cbe1-57e7-9551-ca8a0e3bddb4",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'icrcworld.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--28bdcc07-39b4-5129-8fcc-32be0e465e10",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'ideas-telcel.com.mx']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--1956b528-b1d9-5f25-b79c-f1c46249b95e",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'iusacell-movil.com.mx']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--843d8caf-1adb-52ba-b4fa-57d54865fb51",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'kenyasms.org']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--51d7a0b5-65aa-5433-ad1a-502a4db6cd80",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'mail1.nsogroup.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--fd9d9313-4789-5f2c-9910-af79ec5b431a",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'manoraonline.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--a177c896-7c8d-5538-ac96-c747c58e34fb",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'mz-vodacom.info']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--d13cb4ef-3729-5d4e-98da-abe07f2d88ba",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'nation-news.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--19466cc9-4186-5574-acd2-b2edcd108947",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'newtarrifs.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--29a9fa57-a118-54d3-a880-c13109787105",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'nsoqa.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--0f19108b-70da-5e71-ae23-d3817a9c3255",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'ooredoodeals.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--11796c36-4e2a-55fc-991a-4b6d6b36e4ca",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'pickuchu.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--a8a08760-b6b7-5545-8183-28f10f7be872",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'qaintqa.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--2e21387e-b3e6-5ac2-8381-b993059aca07",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'redcrossworld.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--f27261f2-0276-548a-a319-bbf186841f9e",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'sabafon.info']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--9e1c924d-80d1-5827-a666-b0a6843606a2",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'sms.webadv.co']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--96dbcc77-13cc-5bee-882b-94c062238176",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'smser.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--d1cac924-1ffd-5b0e-bb5d-5f8ca7cec1af",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'thainews.asia']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--240c182d-4026-5efc-89a2-c7a81363eb2b",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'topcontactco.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--a7ef9d7d-5365-56d2-b526-1f6c51fd3d5b",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'track-your-fedex-package.org']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--42be9b91-70e5-591c-bdaf-9ef282d24336",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'turkeynewsupdates.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--a50382d4-6cfc-5e5f-bbde-62dc3113b45a",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'turkishairines.info']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--7b2813ff-ab5f-5578-8910-4e4675d21903",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'uaenews.online']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--8791485a-7d76-5596-ba1f-eb5ccf682ec3",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'univision.click']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--8677db7f-6fb2-5049-98cd-1dce697ae68e",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'unonoticias.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--2c766033-a236-5d8e-8a1c-a60300ee8da6",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'webadv.co']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--c932862b-ec1c-5cd3-8bd8-b3c8ecb89514",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'whatsapp-app.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--b08b5f31-23e8-584b-b976-ceba2d108ffc",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'y0utube.com.mx']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--059b3510-82de-5d6c-a266-2205d0fd31d3",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[url:value = 'http://fb-accounts.com/1074139s/']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--c6e9967d-fef6-5e34-9073-efaa232a35af",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[url:value = 'http://fb-accounts.com/2408931s/']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--d63b3406-c8c7-5090-9fe6-5755fb2f8d33",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[url:value = 'http://unonoticias.net/1867745s/']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--5944087d-70c6-5f26-8a75-6aa77e867a56",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[url:value = 'http://unonoticias.net/3423768s/']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--e8a8a9fb-994f-5f11-af43-c0c6ef3dbbb5",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[url:value = 'https://ideas-telcel.com.mx/3975827s/']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--76a21dea-4248-540f-b96c-54b2d3721462",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[url:value = 'https://sms.webadv.co/3589003s/']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--0b544d58-cf09-5547-9070-1f8ab66ed4f5",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[url:value = 'https://sms.webadv.co/9573305s/']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--1f5e14d2-39ca-509c-88d7-fe3cb3669fed",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[url:value = 'https://smser.net/9918216t/']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--962505b6-115f-56fb-8760-1654f01ecbd4",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[url:value = 'https://smser.net/redirect.aspx']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  }
+ ],
+ "type": "bundle"
+}

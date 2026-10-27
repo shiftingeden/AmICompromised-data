@@ -1,0 +1,2151 @@
+{
+ "id": "bundle--02edb523-d7aa-5186-8e65-0363cd5cc9b8",
+ "objects": [
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--53593351-68e3-5221-94e0-8493e020d575",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'ads-impressions.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--5e071f0e-8cd9-59a1-9ac7-0c06bba87bba",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'ads-monitor.xyz']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--5672684b-1a93-502a-a1b4-35c5ff5c6199",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'adtimizer.co']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--b3d7e4b0-f8a2-5060-a5f7-f4692c54d477",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'adtracker.link']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--3635c995-a727-59ca-949c-39009ae90c60",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'akedo.gg']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--66c9dbb6-be5b-551c-923c-4517180d309d",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'ambiguouscommerce.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--a054326f-d21f-5197-8de3-6b786e24b4f5",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'antperspective.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--c6e5893d-f806-58c8-923e-87d4d99aae59",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'aperturebelt.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--cc4fb84b-659d-5744-94f3-fb9213b1d810",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'archer.westeurope.cloudapp.azure.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--b8a09a58-bf44-5930-8d3d-dbb67f381bdc",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'asknapkin.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--097255e8-d713-5967-b590-d77926922bba",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'barnsecret.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--7cffc90b-ab89-54c9-9e2c-89542c3ca889",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'baseagriculture.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--5bb4ab0d-681d-5a1b-b410-e81065b8d144",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'basicstraw.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--fd6a10e3-4e08-5e39-ac3e-b0281bf63b6e",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'basinapposite.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--f38d4d24-8ae4-56df-94e3-0fc30dcb1f10",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'bd-mainserver.herokuapp.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--cf7089df-45db-5824-b9a7-d587c87e6af7",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'beneathbreadth.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--22734f83-04ab-52e6-9383-5e51408ac933",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'bizarreclassify.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--59dcf383-1768-566e-8a78-07c15b2212de",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'blockroster.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--520cb01b-ab10-51f4-b94a-dcf3a57e4311",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'bondmuscle.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--801b57de-a64c-5305-992b-0f3aa28ab7c5",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'breadgroomer.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--71b6ce57-7167-54fa-a541-9b6f3e27f2ad",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'bronzemonth.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--8c6adc96-2ab2-5f8c-be72-7fc7ecc27cc0",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'browniebell.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--77414420-004b-5e91-beed-874fe2f6f8b2",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'bypassbirch.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--a7e4d5e7-31e0-5dc9-919a-ca6f96aaeb42",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'bypasscalculate.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--5c86a3d5-c9c3-5cf5-a79b-5dafb04c05a3",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'bypasscommerce.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--0dd8004f-9a01-51de-b8a9-bd397f14d061",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'calmbase.org']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--cb26d644-787f-59f6-bce7-715011e93d95",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'cartoondrop.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--d37b9140-e865-5b00-88b2-241dc67de1d7",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'cdnmobile.io']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--25a3df56-c9e0-567f-a120-162d2c63ff9e",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'checkmyimp.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--dc7aa809-e299-5c18-8c7f-19a49c09a6df",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'chickenstrawberry.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--5a779cae-95b3-5f86-b982-c3615271360e",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'citecivilization.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--4251ba3b-6501-586c-a85b-5683c08ea54a",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'closetmeat.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--d4b91d0e-fe80-5a5a-8b57-7a02c6c07919",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'commonclever.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--e9ffc221-515c-5c73-9c3f-1e81674c0f9d",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'concretebottle.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--9ca11292-22d7-53fd-a463-43491c836e55",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'conquerconfess.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--3e4b26ff-913c-537f-9d57-e2045564f1cb",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'containsnow.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--fd00bdd7-48fc-5d0f-b831-385a41368723",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'contradictionblindness.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--6f16bab7-accb-5ecb-bef1-ea6e5e889d0d",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'controlium.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--4686a2e6-d7a5-52c0-9999-b7e8f4209e75",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'convincechaotic.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--60b3393f-5015-5eba-b5a2-42abbf0a0cb9",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'cookie-sync.xyz']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--05decc94-b451-5023-aa25-18a4539db206",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'cookiesurfer.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--8ea24051-05f3-5226-8eb3-b84fcfdad33a",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'cooperatedisinfect.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--17a58899-dd39-5269-807c-88b30f2ace68",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'cottonbread.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--93549bb8-6cff-535d-ab36-4322ee540736",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'cranberrybear.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--13d8a3b5-2eea-5812-a14a-d9d897808bbf",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'cropcritique.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--413807b2-1029-5d76-a9b2-90baa55ace62",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'crossoverdue.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--031c1bcc-d5c3-5d3a-ab48-4a07238a191f",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'd147nolwbekx2b.cloudfront.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--6a8f7e38-8dda-510a-bc45-2e61d8000380",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'd19oo8r6k9oumb.cloudfront.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--4cdc48c2-4496-52db-bb76-5bf66973d00c",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'd1fcoizt7mje85.cloudfront.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--772f2bd1-09f9-5ca6-b9f5-8418cd5650fa",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'd1fzw0miu1r9rc.cloudfront.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--000f3739-f38b-58c4-be61-232ce7cc732a",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'd1x4e580sn23dn.cloudfront.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--18800ec0-b034-58af-9b7d-244a2be61a7a",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'd23625plpxg1yn.cloudfront.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--0aaa817c-1e13-5b94-aa13-8d3b88a8a1d2",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'd2epnp0vokbtl7.cloudfront.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--c7556d9d-db7c-5e60-a9a9-305a364a144a",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'd2f4zpg1mgzwov.cloudfront.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--e38d62cc-d99f-54e5-8978-044b9afc72d0",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'd39619tdxn6mhj.cloudfront.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--a9615aff-8bc4-55f6-93c8-063c9e0171b4",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'd8lmy5wyiokrq.cloudfront.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--a5e66463-5a2a-56ad-99fe-349530858ff9",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'damageconsider.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--107f1cc5-42b2-5798-ac45-fcac77913b3b",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'dcv2rnj2ograe.cloudfront.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--bbb5c0ac-d0af-52ba-9f85-acc69ff61e7e",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'deardrill.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--671a778b-f67f-5a71-885e-0d65282f5a51",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'dediccatedconsideration.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--102ea255-67d8-5470-863e-ba1057affb40",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'deducedefend.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--036b9690-108b-5d00-b4ff-3c4e0f889a2b",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'deliverconcern.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--363a3b99-57f0-5d3a-979b-e4bff4fd1959",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'densefoot.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--174eb3f1-85ca-5558-8722-361d222fe495",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'desireeclipse.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--95500011-94ba-5c2e-badc-315e5f42c92b",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'detaincharity.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--0276eb3f-9b06-5d4c-a65a-8ead44ecd32e",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'deterdiffusion.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--5934f2da-aa08-50f6-93e0-124e504ddee7",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'devotionbelief.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--45849d2c-bc40-5daa-90cd-f90ea8a5c700",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'discover-tech.io']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--cc79d02c-c170-5d88-9f6a-50ad7761e1df",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'discovertech-alb-100966113.us-east-1.elb.amazonaws.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--fd3be081-48a2-519f-99df-f3a58dbea21b",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'distractionfar.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--6f702fae-f1e5-563d-b706-75e772af0308",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'drivesplash.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--1b0ed0cc-29f5-531b-975e-1230fa8c978b",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'drummerjourney.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--6a725a53-04e4-5186-a893-d3c4f0995dc3",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'dtech.adtimizer.co']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--d85cc721-81bf-52ba-a686-ed462237b9f0",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'dtech.mtrtb.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--850bf14c-5d74-51b6-b1e3-aa9bc81ccca9",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'dumplingbell.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--19a0a407-7b1e-5afa-a7a2-0533fd2849ef",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'electric-prime.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--2495cac4-2bf0-5a81-bbf4-38aca169829f",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'elifluousscintillam.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--4274aa0c-bfb7-5a62-8aca-51d89c5f56e7",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'eminententwine.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--7a737f58-04df-5eb2-a772-fd04260bfb09",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'events.myweb3id.io']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--e2e7657c-ada2-5b72-876a-55ad0fc8ec77",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'events.platc-tester.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--84aaa294-e129-574d-b03d-4b1349b2b456",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'exhibitexpanse.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--0175b72b-2bf5-5f72-ab47-3cca69944626",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'fallaciousessential.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--b5f24f3b-841b-50b5-a31b-bccc24a832b0",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'fearevolve.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--c8543ea3-1564-5956-8036-fdf5299db50c",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'fileswaper.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--70743568-9d85-5ae7-a600-cd83614b19fa",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'finalsalami.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--db9baa7a-3658-55c7-b582-565acd204365",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'flexibleelevator.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--a3a31f16-0124-579a-b396-0f9b355da0aa",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'foamdirection.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--26feca0f-d6a6-5e3a-9adb-d775963ec00d",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'forecastgarden.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--26b7b770-c537-5574-b9ea-bdd9b90acf6d",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'goatsandals.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--3cc35f96-2af8-5427-976f-da981319342e",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'golfconcert.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--16abf6c6-58d8-5567-ae10-e13aa29fcfc2",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'groundbreakinginitative.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--9b956e22-8758-5087-a7f1-1cd3717192b1",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'guitarcalculate.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--e187d643-6aa8-54e6-912d-a565d0ce699f",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'hostilefauna.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--f57a343e-94a6-505a-9e5a-f906d694fc34",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'infinoas.mtrtb.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--bb70b712-3891-5992-947e-f35b877b686f",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'insightenterprisells.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--52fb08e2-3e17-5474-9d8d-61f4cf517943",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'isolatelecture.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--398193aa-fe67-5dc3-b812-61fdf2a6266c",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'jellybat.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--b7a43144-e3be-5f69-a098-2daa50425a61",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'jobmarcher.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--72c0c47b-2fa0-58c7-8773-524a90f7609b",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'journeyjest.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--474f2f28-e900-5dc8-9081-04cca7d320e8",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'kartingrumble.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--fb3f0550-a98d-5b3b-8307-d1bc62911d52",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'keyadapter.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--9b61dda8-6125-56a2-bf14-cc8bc4b20214",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'labyrinthextravagance.org']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--328053d0-3bc5-5348-9bb3-e99fcdf0b0cc",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'leafconfuse.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--b1c1d039-3ff6-538f-b3ea-ae7b624023f4",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'lessonhandle.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--31590d7f-8ddf-587f-9fd3-b07b18b49cd2",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'macrodrop.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--4a4ae2fc-58f3-5b15-88a3-0422052ea986",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'macromint.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--6ec630ac-344f-52f3-87bf-0660973cbd8a",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'maturitygenesis.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--4d768dab-bb55-5869-9914-224e226ded7d",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'measurecabin.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--b9fb8d4d-0453-5b98-b54d-8aa480bb359a",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'msstore.io']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--57638e7d-8bc2-5363-bf40-e4d6a3a811b2",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'mtrtb.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--0394f36f-573a-5d09-91de-4d13fc9f2ac1",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'mushroompalm.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--5a33fdce-413b-5c2e-af1a-4efe5edbae0e",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'mydsp.io']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--c3e2009c-b821-5965-829f-23bcfe1ef0d3",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'myipinfo.io']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--bff53ed7-635e-5c21-bd9d-25a288d0c3f3",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'myweb3id.io']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--76f9532a-fdcd-54cd-a73e-c78498861d8a",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'noas.adtimizer.co']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--9336a4b0-5630-5987-ac12-195233116129",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'noas.impchkdsp.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--01dcee96-24e6-5a2a-b770-fc83c348a289",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'noas.mtrtb.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--6f977de3-a693-5232-9460-555d4125deb4",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'noas.powerium.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--5ced9f8c-a7d4-5b12-9d5f-a834e4be6a96",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'noas.trakking.co']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--f0460f1e-46b8-56c1-b89c-62c1706ef83f",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'notableexam.org']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--85d9dcb6-5db4-56fc-818e-4e884de26b28",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'notionnowadays.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--5a692eed-5159-5620-a255-95a4245bfe26",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'nutralove.co']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--fc1cb096-621d-5054-8d2c-0399f1988a88",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'outdooutcome.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--68737923-07c6-5522-ac4b-e595a36966aa",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'pagead.trustlayersdk.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--ad6b0a49-d042-5eb4-b709-b702de97b8b8",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'parkourbus.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--c1e70886-1015-568b-ae05-1822e7ff76ff",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'patternperiod.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--1b15d3a6-8083-52ad-a45f-f4d76b302b88",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'penslice.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--78740718-1c87-5f35-bc96-4c12fa9124d1",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'pepperdominate.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--2b157664-12af-5545-9133-7305a4a6b542",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'plasticbells.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--7cac145a-4fac-593c-b66b-5ec196a1da3a",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'platc-tester.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--a1299855-c7cf-5d12-9619-fc4156fd629d",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'powerium.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--6831b88d-47b9-5642-b4a9-1159980aae22",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'ppv2.mtrtb.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--8cf42956-c4ed-5700-9bb0-81312c588991",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'pqv2.mtrtb.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--1f0d5286-42cf-590e-b998-c9de70372521",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'prawnbasket.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--7cd5d7bc-8d5b-5265-9db7-84977eba10cc",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'predictproper.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--911f33ff-f60a-5cca-ab1c-1f9bdb870727",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'pressaviation.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--38ba922c-4c41-5516-8f50-4188cb001ef5",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'profligatecensure.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--1b76f960-983d-5854-b3a2-cec4de5e3cd9",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'qa-noas.powerium.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--b269a585-b6a5-5223-af41-971b129af1ad",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'rollstrech.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--d5081b45-41cd-506e-a9ff-1ddd393a5030",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'romancedrum.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--766c696a-e3d3-595f-916f-a426ac0bdf15",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'sacrificeprincipal.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--b25df15b-00d0-5296-a6c1-886f8045faf5",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'salmonpride.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--e4cc2639-ff0e-58b3-9288-0d3b9b1b6eee",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'scoreparade.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--7400efc7-cfba-5f56-ae6e-5bd179a1a44c",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'selectedpazzle.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--5359eccc-55f1-5a03-8993-2bc6ae6c4a89",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'shareitwork.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--09ce8160-4704-5ba5-b89d-d1b3aea97924",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'sharethere.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--0e45e373-2728-5378-8812-1e11728231fa",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'signifyslight.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--d460c117-c9a2-5ee9-8c81-00b8c8dc7f46",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'sincereaccertain.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--f0fe048c-5019-5e57-bcef-158353bbf157",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'spongefruit.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--1a4d630c-fd56-52c1-abd7-99cb9cb5357b",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'stablesurface.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--274d59dc-a29d-50ef-83b6-2924f6e83ca1",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'strangegarden.org']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--59c2cb8f-573e-51d2-85fe-9e818c34c200",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'stylebrakedown.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--ab4b636a-bb01-55c3-ba8d-8d053cd4f872",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'suggestutterly.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--08628738-8a80-5786-97b2-9f328b177700",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'sunsetpotential.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--03610ad1-4adc-5d94-80e8-d06a16194cf7",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'tacticscheap.net']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--0757a4f5-e45b-5d1a-aa90-95ca2cfceee4",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'tekma.adtimizer.co']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--dba2c1d9-b986-54ac-964b-01d326509bd3",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'tidalscreen.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--b8eb6c8f-0989-5f66-8411-4e76914b24dd",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'tracker.mtrtb.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--5e047c09-989a-5965-b62c-556f836d4f9c",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'tracookiepixel.xyz']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--b147cc05-2847-5bba-be67-4f20f77edefc",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'tubeshape.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--74f05234-fd8c-5a9a-82ce-3d9d5fb915f9",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'ultimatematter.info']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--c0b94e7b-e46e-54ef-a7db-22a93af41227",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'velvetpremier.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--c46ff811-926c-567c-84bd-34de18e1c5d5",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'volasim.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--945d757e-fc5c-5e2f-b0c3-96420480c337",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'windomination.com']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "created": "2026-10-27T00:00:00.000Z",
+   "id": "indicator--319b0f41-1984-5eaa-a4d9-31812388645f",
+   "indicator_types": [
+    "malicious-activity"
+   ],
+   "modified": "2026-10-27T00:00:00.000Z",
+   "pattern": "[domain-name:value = 'www.discover-tech.io']",
+   "pattern_type": "stix",
+   "spec_version": "2.1",
+   "type": "indicator",
+   "valid_from": "2026-10-27T00:00:00.000Z"
+  }
+ ],
+ "type": "bundle"
+}
